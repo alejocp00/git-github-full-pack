@@ -1,0 +1,32 @@
+{
+  "name": "git-github-full-pack",
+  "displayName": ":Git & GitHub full pack",
+  "publisher": "AlejoCP00",
+  "icon": "icon.png",
+  "repository": {
+    "url": "https://github.com/alejocp00/git-github-full-pack/"
+  },
+  "bugs": {
+    "url": "https://github.com/alejocp00/git-github-full-pack/issues"
+  },
+  "license": "mit",
+  "description": "A collection of all Git & GitHub extensions that I'm using",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "github.vscode-pull-request-github",
+    "felipecaputo.git-project-manager",
+    "ms-vscode.remote-repositories",
+    "donjayamanne.githistory",
+    "codezombiech.gitignore",
+    "ms-vscode.azure-repos",
+    "mhutchie.git-graph",
+    "github.remotehub",
+    "eamodio.gitlens"
+  ]
+}
